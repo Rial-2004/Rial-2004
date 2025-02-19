@@ -4,8 +4,6 @@
 
 👀 Me interesa el desarrollo frontend y explorar nuevas tecnologías web. Mi objetivo es mejorar mis habilidades en frameworks modernos como React para construir interfaces de usuario dinámicas y responsivas.
 
-💞️ Busco colaborar en proyectos a gran escala que puedan desafiarme y ayudarme a crecer como desarrollador/a. Estoy ansioso/a por aplicar mis conocimientos actuales mientras aprendo de profesionales experimentados en escenarios del mundo real.
+💞️ Busco colaborar en proyectos a gran escala que puedan desafiarme y ayudarme a crecer como desarrollador. Estoy ansioso por aplicar mis conocimientos actuales mientras aprendo de profesionales experimentados en escenarios del mundo real.
 
 📫 Cómo contactarme: ¡No dudes en contactarme en rialmar2004@gmail.com para cualquier oportunidad de colaboración o simplemente para conectar!
-
-⚡ Dato curioso: Como estudiante de DAM, ¡estoy en un viaje para cerrar la brecha entre la programación tradicional y las tecnologías web de vanguardia! Mi conjunto diverso de habilidades me permite abordar los problemas desde múltiples ángulos.
