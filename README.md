@@ -13,8 +13,6 @@
 
 Habilidades:
 - JavaScript
-- React
-- Node.js
 - HTML
 - CSS
 - SQL
