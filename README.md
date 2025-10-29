@@ -1,20 +1,17 @@
-👋 ¡Hola! Soy @Rial-2004
+Hola, soy Rialmar (@Rial-2004)
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/tu_usuario_de_instagram](https://www.instagram.com/riaal.04?igsh=MXFuNHZzNGk2cXdidw==))
+Actualmente estoy centrado en el desarrollo de aplicaciones Android,
+trabajando principalmente con Kotlin, Java y C#. También tengo experiencia en desarrollo web
+con JavaScript, HTML y CSS, y en gestión de bases de datos con SQL y MariaDB.
 
+Me gusta crear aplicaciones que sean útiles y funcionales,
+y siempre busco aprender nuevas tecnologías para mejorar como desarrollador.
 
-🌱 Actualmente estoy aprendiendo React y Node.js para expandir mis habilidades en el desarrollo frontend. Como estudiante de primer año de DAM (Desarrollo de Aplicaciones Multiplataforma), tengo conocimiento en Java, HTML, CSS, JavaScript, y en la gestión de bases de datos con MariaDB y SQL.
+Si quieres contactarme o colaborar en algún proyecto, puedes escribirme a rialmar2004@gmail.com.
 
-👀 Me interesa el desarrollo frontend y explorar nuevas tecnologías web. Mi objetivo es mejorar mis habilidades en frameworks modernos como React para construir interfaces de usuario dinámicas y responsivas.
-
-💞️ Busco colaborar en proyectos a gran escala que puedan desafiarme y ayudarme a crecer como desarrollador/a. Estoy ansioso/a por aplicar mis conocimientos actuales mientras aprendo de profesionales experimentados en escenarios del mundo real.
-
-📫 Cómo contactarme: ¡No dudes en contactarme en rialmar2004@gmail.com para cualquier oportunidad de colaboración o simplemente para conectar!
-
-Habilidades:
-- JavaScript
-- HTML
-- CSS
-- SQL
-- MariaDB
-- Java
+Habilidades
+Android: Kotlin, Java, C#
+Web / Frontend: JavaScript, HTML, CSS
+Bases de datos: SQL, MariaDB
+Control de versiones: Git / GitHub
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/riaal.04)
