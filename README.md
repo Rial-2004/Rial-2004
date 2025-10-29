@@ -10,9 +10,9 @@ y siempre busco aprender nuevas tecnologías para mejorar como desarrollador.
 Si quieres contactarme o colaborar en algún proyecto, puedes escribirme a rialmar2004@gmail.com.
 
 ### Habilidades
-Android: Kotlin, Java, C#
-Web / Frontend: JavaScript, HTML, CSS
-Bases de datos: SQL, MariaDB
-Control de versiones: Git / GitHub
+Android: Kotlin, Java, C#  
+Web / Frontend: JavaScript, HTML, CSS  
+Bases de datos: SQL, MariaDB  
+Control de versiones: Git / GitHub  
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/riaal.04)
