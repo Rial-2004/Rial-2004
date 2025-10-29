@@ -1,4 +1,4 @@
-**##Hola, soy Rialmar (@Rial-2004)**
+##**Hola, soy Rialmar (@Rial-2004)**
 
 Actualmente estoy centrado en el desarrollo de aplicaciones Android,
 trabajando principalmente con Kotlin, Java y C#. También tengo experiencia en desarrollo web
